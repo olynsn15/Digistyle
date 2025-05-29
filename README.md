@@ -8,6 +8,7 @@ Digistyle is a digital archive documenting digital camera models from the 2000s,
 - Contact
 
 ## ASSETS USED : 
+- Jakarta Sans and Work Sans font from Google Fonts
 - Images from Pinterest
 - Icons from Flaticon
 
