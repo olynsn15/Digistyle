@@ -2,7 +2,7 @@
 ### Dicoding's Basic Web Programming Course Final Submission
 
 **Digistyle** is a digital archive dedicated to documenting iconic **digital camera models from the 2000s**—an era that’s making a comeback among younger generations. With unique designs, vibrant colors, and distinctly nostalgic image results, each camera in the Digistyle archive captures the **photography style of its time**.
-> This project showcases the **landing page only**, as required by the final project brief
+- This project showcases the **landing page only**, as required by the final project brief
 <br><br>
 
 ## Features
