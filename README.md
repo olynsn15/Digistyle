@@ -62,6 +62,6 @@ Fonts : Jakarta Sans & Work Sans from Google Fonts (https://fonts.google.com)
 Images : Sourced from Pinterest  
 Icons : Flaticon collection
 
-Created with passion and vintage flair by me - Carolyn Santana
+Created with passion and vintage flair for Dicoding's Basic Web Programming Course Final Project Submission
 ```
 <br><br>
